@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="icones">
+    <file>autor.jpg</file>
     <file>help.svg</file>
     <file>logout.svg</file>
     <file>user.svg</file>

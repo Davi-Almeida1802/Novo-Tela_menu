@@ -1,5 +1,9 @@
 <RCC>
   <qresource prefix="icones">
+    <file>contact.svg</file>
+    <file>workness.svg</file>
+    <file>work.svg</file>
+    <file>work.svg</file>
     <file>autor.jpg</file>
     <file>help.svg</file>
     <file>logout.svg</file>
